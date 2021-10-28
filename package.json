@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "api:run": "json-server --watch src/api/db.json --port 4000"
+    "api:run": "json-server --watch api/db.json --port 4000"
   },
   "eslintConfig": {
     "extends": [
